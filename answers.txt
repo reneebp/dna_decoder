@@ -1,0 +1,8 @@
+Answers: 
+1. A
+2. R
+3. N
+4. D
+5. C
+6. STOP(*)
+7. DQW
